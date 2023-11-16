@@ -36,3 +36,9 @@ Demonstrating the citizens in respective state by age.
 
 - This project highlighted the fact that Native Americans are the minority group throughout all the states in the United States. While the White population seems to be dominating the majority of the country, if not all. 
 - With the information gathered, this could be useful for companies who are looking for a particular group of people to target, whether it's races, age, or from a specific state, with the intention of advertising their products or company.
+- In the future, I would like to utilize more of what I learned throughout the course, specifically, webscraping in order to gather more information about the "Others" race as well as the specific age range for each states. 
+
+----
+### Reference
+1) Dataset: https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data/ 
+
