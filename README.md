@@ -16,7 +16,7 @@
 ### Table
 ![](https://github.com/tramh725/project-3/blob/main/Images/US%20Population%20by%20States.png)
 
-Showcasing the amount of people living in different states. 
+Showcasing the population of all 50 States, including District of Columbia. 
 
 ###
 
