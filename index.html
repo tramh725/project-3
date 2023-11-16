@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Basic Charts</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    
+</head>
+<body>
+        <div class="header-container">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-6">
+                <h2>
+                  US Census Demographic
+                </h2>
+                <h3> In 2017</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br>
+        <p>A collection of data from US Census Bureau pieces together to form an analysis and visualization of the US demographic in 2017. This includes the population of the respective state, also specification on race group. </p>
+        <br>
+        <form>
+          <div class="row">
+            <div class="col">
+              <div class="form-group">
+                <label for="exampleFormControlSelect1">
+                  <h4>States</h4>
+                </label>
+                <select class="form-control" id="stateSelect">
+                  <option selected value="ALL">Show All</option>
+                  <option>Alabama</option>
+                  <option>Alaska</option>
+                  <option>Arizona</option>
+                  <option>Arkansas</option>
+                  <option>California</option>
+                  <option>Colorado</option>
+                  <option>Connecticut</option>
+                  <option>Delaware</option>
+                  <option>District of Columbia</option>
+                  <option>Florida</option>
+                  <option>Georgia</option>
+                  <option>Hawaii</option>
+                  <option>Idaho</option>
+                  <option>Illinois</option>
+                  <option>Indiana</option>
+                  <option>Iowa</option>
+                  <option>Kansas</option>
+                  <option>Kentucky</option>
+                  <option>Louisiana</option>
+                  <option>Maine</option>
+                  <option>Maryland</option>
+                  <option>Massachusetts</option>
+                  <option>Michigan</option>
+                  <option>Minnesota</option>
+                  <option>Mississippi</option>
+                  <option>Missouri</option>
+                  <option>Montana</option>
+                  <option>Nebraska</option>
+                  <option>Nevada</option>
+                  <option>New Hampshire</option>
+                  <option>New Jersey</option>
+                  <option>New Mexico</option>
+                  <option>New York</option>
+                  <option>North Carolina</option>
+                  <option>North Dakota</option>
+                  <option>Ohio</option>
+                  <option>Oklahoma</option>
+                  <option>Oregon</option>
+                  <option>Pennsylvania</option>
+                  <option>Rhode Island</option>
+                  <option>South Carolina</option>
+                  <option>South Dakota</option>
+                  <option>Tennessee</option>
+                  <option>Texas</option>
+                  <option>Utah</option>
+                  <option>Vermont</option>
+                  <option>Virginia</option>
+                  <option>Washington</option>
+                  <option>West Virginia</option>
+                  <option>Wisconsin</option>
+                  <option>Wyoming</option>
+                </select>
+              </div>
+            </div>
+            <div class="col">
+              <div class="form-group">
+                <label for="exampleFormControlSelect2">
+                  <h4>Race</h4>
+                </label>
+                <select class="form-control" id="raceSelect">
+                  <option selected value="ALL">Show All</option>
+                  <option>Hispanic</option>
+                  <option>White</option>
+                  <option>Black</option>
+                  <option>Native</option>
+                  <option>Asian</option>
+                  <option>Pacific</option>
+                  <option>Others</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </form>
+        <br>
+        <article>
+          <p>This map shows the result from the filter above.</p>
+        </article>
+        <br>
+        <article>
+          <p>This map shows the population of each state.</p>
+        </article>
+</body>
+</html>
+
