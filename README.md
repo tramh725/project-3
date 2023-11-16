@@ -13,5 +13,15 @@
 - Used Flask, HTML, CSS
 
 ----
-
+### Table
 ![](https://github.com/tramh725/project-3/blob/main/Images/US%20Population%20by%20States.png)
+
+Showcasing the amount of people living in different states. 
+
+![](https://github.com/tramh725/project-3/blob/main/Images/California_pop.png)
+
+Depicting the different races living in California.
+
+![](https://github.com/tramh725/project-3/blob/main/Images/US%20Population%20by%20Age.png)
+
+Demonstrating the citizens in respective state by age. 
