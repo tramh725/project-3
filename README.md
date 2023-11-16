@@ -20,7 +20,7 @@ Showcasing the population of all 50 States, including District of Columbia.
 
 ###
 
-![](https://github.com/tramh725/project-3/blob/main/Images/California_pop.png)
+![](https://github.com/tramh725/project-3/blob/main/Images/Races%20in%20California.png)
 
 Depicting the different races living in California.
 
